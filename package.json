@@ -1,5 +1,7 @@
 {
   "name": "magic-league-pundit",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
